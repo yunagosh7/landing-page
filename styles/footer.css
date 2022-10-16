@@ -1,0 +1,43 @@
+footer{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.signUp{
+    width: 75%;
+    height: 150px;
+    background-color: #4689f6;
+    color: #fff;
+    border-radius: 10px;
+}
+
+
+.signUp div {
+    display: inline-block;
+    padding: 50px;
+    margin: 0 70px;
+}
+
+h4{
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.signUp p {
+    margin: 3px 0 ;
+}
+
+.signUp .btn{
+    padding: 4px 23px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
